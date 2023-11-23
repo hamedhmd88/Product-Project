@@ -14,7 +14,7 @@ export default function Basket() {
         <div className='w-full'>
         <div className='flex flex-row items-center justify-between mt-2 py-6 px-10 text-xl font-medium '>
             <h3>Your Basket</h3>
-            <p className='bg-indigo-700 p-2 text-white'>Total: ${total}</p>
+            <p className='bg-indigo-700 p-2 text-white rounded-lg'>Total: ${total}</p>
         </div>
         {products.map((product, i) => 
             <BasketProduct
