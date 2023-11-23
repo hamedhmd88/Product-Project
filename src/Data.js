@@ -1,7 +1,7 @@
 export const storeData = [
     {
         name: "F19503R",
-        price:9.00,
+        price:9.48,
         image:"https://df5apg8r0m634.cloudfront.net/p/6246/middle-1-Zhg6oNN3XU.webp"
 
     },
@@ -13,13 +13,13 @@ export const storeData = [
     },
     {
         name: "Lindsay20516",
-        price:16.00,
+        price:16.22,
         image:"https://df5apg8r0m634.cloudfront.net/p/8581/middle-1-51d05ab2ee5f879eb787071bfc06ae70.webp"
 
     },
     {
         name: "D17660",
-        price:18.00,
+        price:18.10,
         image:"https://df5apg8r0m634.cloudfront.net/p/7839/middle-1-f156c83d17dedc8351e147b4aaf10222.webp"
 
     },
@@ -31,7 +31,7 @@ export const storeData = [
     },
     {
         name: "LKFS8831",
-        price:12.00,
+        price:12.30,
         image:"https://df5apg8r0m634.cloudfront.net/p/5816/middle-1-SIPV5TzpMI.webp"
 
     }
