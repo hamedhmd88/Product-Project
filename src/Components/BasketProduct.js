@@ -13,7 +13,7 @@ export default function BasketProduct({item}) {
 
   return (
     
-    <div className="flex flex-row items-center justify-center gap-10 px-10 my-10   ">
+    <div className="flex flex-row items-center justify-center gap-10 px-10 my-10  border border-gray-300 p-8 ">
         <img src={item.image} alt={item.name + "glasses"} 
 
             className="w-40 "
